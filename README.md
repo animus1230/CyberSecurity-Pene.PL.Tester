@@ -1,7 +1,6 @@
-📄 Raport z maszyn Hack The Box – Portfolio Kevin (17 lat)
+📄 Raport z maszyn Hack The Box – Portfolio 
 
-Cześć!
-Jestem Kevin, młody entuzjasta cyberbezpieczeństwa, który już zdobył flagi na kilku maszynach w Hack The Box. Poniżej przedstawiam zestawienie maszyn, które potrafię samodzielnie „złamać”, opis zadań oraz użyte techniki/komendy. Raport jest krótki, czytelny i przygotowany tak, żeby każdy mógł go skopiować i wkleić.
+Cześć! entuzjasta cyberbezpieczeństwa, który już zdobył flagi na kilku maszynach w Hack The Box. Poniżej przedstawiam zestawienie maszyn, które potrafię samodzielnie „złamać”, opis zadań oraz użyte techniki/komendy. Raport jest krótki, czytelny i przygotowany tak, żeby każdy mógł go skopiować i wkleić.
 
 
 ---
@@ -278,8 +277,7 @@ Z każdej maszyny zdobyłem flagę user, a w przypadku Ignition – flagę root.
 ---
 
 Kilka słów o mnie 🤓💡
-
-Jestem młodym (17 lat) pasjonatem pentestingu i szybko przyswajam wiedzę.
+ pasjonatem pentestingu i szybko przyswajam wiedzę.
 
 Szukam praktyk – jestem głodny wiedzy i chcę rozwijać się w realnym środowisku.
 
